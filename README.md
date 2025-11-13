@@ -73,4 +73,3 @@ Aucune version payante, clé d’activation ou autre forme d’achat ne sera jam
 ## 🪪 Licence & Copyright
 
 > © 2025 Enrgy. Tous droits réservés.
-> Voir le fichier [LICENSE](./LICENSE) pour plus d’informations.
